@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="IM_Client.Controller" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.75" Width="4.25" />
+    <NestedTypes>
+      <Delegate Name="IM_Client.Controller.MessageEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Controller.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAEAQFIQMQBAgCAAAEQAAKKIiQAQCQTSAwAQAgA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+      <Field Name="ob" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IM_Client.DataBase">
+    <Position X="9.5" Y="3.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAYAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IM_Client.MainViewForm" BaseTypeListCollapsed="true">
+    <Position X="15" Y="0.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>gICBAQAhECEwABAyBCGBBQBCAAACABAkQAUAAiEAAAI=</HashCode>
+      <FileName>MainViewForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+      <Field Name="IH" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="IM_Client.InputHandler">
+    <Position X="10" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABIAAQAAAAAAAAQAAAAACQAAAAAAAQAQAAA=</HashCode>
+      <FileName>InputHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IM_Client.Observer">
+    <Position X="10" Y="6.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAEAEQAAAgAAEAAABAAAAAAAAgAAUAACAAAAA=</HashCode>
+      <FileName>Observer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

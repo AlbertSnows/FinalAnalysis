@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///H:/WINDOWS/PROGRAMS/VISUAL STUDIO 2015/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Diagnostic" Text="TemplateFilePath = H:\WINDOWS\PROGRAMS\VISUAL STUDIO 2015\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Diagnostic" Text="ResolvedTemplateFilePath = H:\WINDOWS\PROGRAMS\VISUAL STUDIO 2015\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-04-11T14:34:09" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ModelingProject1::ChatRoom' -  (Class), 'ModelingProject1::WebSocketServer' -  (Class), 'ModelingProject1::UserData' -  (Class), 'ModelingProject1::Controller' -  (Class), 'ModelingProject1::ClientCommunication' -  (Class) " />
+  <Message Timestamp="2017-04-11T14:34:18" Importance="Medium" Text="Project Added: C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2017-04-11T14:34:18" Importance="Medium" Text="'ModelingProject1::ChatRoom' -  (Class) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\ChatRoom.cs" />
+  <Message Timestamp="2017-04-11T14:34:18" Importance="Medium" Text="'ModelingProject1::WebSocketServer' -  (Class) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\WebSocketServer.cs" />
+  <Message Timestamp="2017-04-11T14:34:18" Importance="Medium" Text="'ModelingProject1::UserData' -  (Class) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\UserData.cs" />
+  <Message Timestamp="2017-04-11T14:34:18" Importance="Medium" Text="'ModelingProject1::Controller' -  (Class) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\Controller.cs" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Medium" Text="'ModelingProject1::ClientCommunication' -  (Class) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\ClientCommunication.cs" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="TemplateFilePath = H:\WINDOWS\PROGRAMS\VISUAL STUDIO 2015\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="ResolvedTemplateFilePath = H:\WINDOWS\PROGRAMS\VISUAL STUDIO 2015\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'ModelingProject1::AbstractUserData' -  (Interface), 'ModelingProject1::WebSocketBehavior' -  (Interface), 'ModelingProject1::ControlInterface' -  (Interface) " />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Medium" Text="'ModelingProject1::AbstractUserData' -  (Interface) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\AbstractUserData.cs" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Medium" Text="'ModelingProject1::WebSocketBehavior' -  (Interface) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\WebSocketBehavior.cs" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Medium" Text="'ModelingProject1::ControlInterface' -  (Interface) : success (file created) - C:\Users\derekpock\Documents\VS-Git\FinalProject-T07-B\IM_Server\ModelingProject1Lib\GeneratedCode\ControlInterface.cs" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="TemplateFilePath = H:\WINDOWS\PROGRAMS\VISUAL STUDIO 2015\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="ResolvedTemplateFilePath = H:\WINDOWS\PROGRAMS\VISUAL STUDIO 2015\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ModelingProject1::ChatRoom' -  (Class), 'ModelingProject1::WebSocketServer' -  (Class), 'ModelingProject1::UserData' -  (Class), 'ModelingProject1::Controller' -  (Class), 'ModelingProject1::ClientCommunication' -  (Class) " />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::ChatRoom' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::WebSocketServer' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::UserData' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::Controller' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::ClientCommunication' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="The selection included 12 elements which were not bound to a template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'b4c09288-078d-4a1b-810c-beef7c364510' -  (Comment): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'a19a4fd0-9d91-4fc1-a5fa-9af04a665386' -  (Comment): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (Dependency): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2017-04-11T14:34:19" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
